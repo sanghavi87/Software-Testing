@@ -5,5 +5,7 @@ public class Class_1 {
 
         System.out.println("welcome to Java");
 
+        System.out.println("push this file to GitHub");
+
     }
 }

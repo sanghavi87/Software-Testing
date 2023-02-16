@@ -5,5 +5,6 @@ public class Package_1 {
 
 
         System.out.println("hello world");
+        System.out.println("push this file to GitHub");
     }
 }
